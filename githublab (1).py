@@ -5,10 +5,4 @@ elif(x=='Hi'or x=='hi'):
     print('Nice to meet you')
 print('1')
 print('2')
-bckht
-ihbih
-
-
-sv
-
-1234566
+print('3')
